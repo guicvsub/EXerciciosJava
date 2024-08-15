@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7efe430-2164-44c1-b94e-63fc6b056757" name="Changes" comment="Exerciciosjava">
-      <change afterPath="$PROJECT_DIR$/Exercicio04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicio04.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicio04.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +84,7 @@
       <option name="presentableId" value="Default" />
       <updated>1723752786159</updated>
       <workItem from="1723752787305" duration="314000" />
-      <workItem from="1723753319767" duration="1103000" />
+      <workItem from="1723753319767" duration="1340000" />
     </task>
     <task id="LOCAL-00001" summary="Exerciciosjava">
       <option name="closed" value="true" />
